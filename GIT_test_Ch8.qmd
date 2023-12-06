@@ -1,0 +1,20 @@
+---
+title: "SettingUpGitHub"
+author: "Jeff Scheminger"
+format: html
+editor: visual
+description: "GitHub"
+date: "12/05/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  - challenge_8
+  
+- Last movie I've seen was a weird one with Nic Cage
+- 
+---
